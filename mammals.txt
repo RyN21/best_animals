@@ -1,0 +1,6 @@
+Mammals list:
+Lions
+Squirrels
+Bears
+Wolves
+Foxes
